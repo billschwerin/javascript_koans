@@ -6,6 +6,8 @@ describe("About Expects", function() {
   });
 
   //To understand reality, we must compare our expectations against reality.
+  //I have added this comment
+  //it is a very nice comment
   it("should expect equality", function () { 
 	  var expectedValue = FILL_ME_IN;
 	  var actualValue = 1 + 1;
