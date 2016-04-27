@@ -9,7 +9,7 @@ describe("About Expects", function() {
   //I have added this comment
   //it is a very nice comment
   it("should expect equality", function () { 
-	  var expectedValue = FILL_ME_IN;
+	  var expectedValue = 11;
 	  var actualValue = 1 + 1;
 	
 	  expect(actualValue === expectedValue).toBeTruthy();
